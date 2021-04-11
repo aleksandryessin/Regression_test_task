@@ -10,7 +10,7 @@
 ## Data
 Data is available for one of the four boilers of the thermal power plant. The boiler consumes blast furnace and natural gas; there are two inputs - left and right for each gas. The readings of some flow sensors may be inaccurate.
 
-![Data](images/with_outliers.png)
+![Data](images/outliers.png)
 
 ## The task
 1.	Implement data pre-processing;
