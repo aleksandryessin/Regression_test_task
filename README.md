@@ -1,5 +1,5 @@
 # Regression_test_task
-
+![Test_task](images/test_task)
 ## Data
 Data is available for one of the four boilers of the thermal power plant. The boiler consumes blast furnace and natural gas; there are two inputs - left and right for each gas. The readings of some flow sensors may be inaccurate.
 
@@ -20,7 +20,7 @@ Data is available for one of the four boilers of the thermal power plant. The bo
 
 ## Results
 Here is the result on Regression task:
-![Result](images/Final_result.png)
+![Result](images/final_result.png)
 
 ### Metrics
-![Result](images/metrics.png)
+![Result](images/metrics_final.png)
