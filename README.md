@@ -26,6 +26,6 @@ Here is the result on Regression task:
 ![Result](images/Final_result.png)
 
 ### Metrics
-![Result](images/Final _metrics.png)
+![Result](images/Final_metrics.png)
 
 **Note:** MAPE in `%`.
