@@ -20,7 +20,7 @@ Data is available for one of the four boilers of the thermal power plant. The bo
 
 ## Results
 Here is the result on Regression task:
-![Result](images/Final_resULt.png)
+![Result](images/Final_result.png)
 
 ### Metrics
 ![Result](images/metrics.png)
