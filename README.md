@@ -15,17 +15,17 @@ Data is available for one of the four boilers of the thermal power plant. The bo
 ## The task
 1.	Implement data pre-processing;
 2.	Conduct primary data analysis;
-3.	Develop a forecasting  model for the amount of steam from boiler # 1 (code т2263);
+3.	Develop a forecasting  model for the amount of steam from boiler №1 (`label: т2263`);
 4.	Justify the model.
 5.	Provide the results as an ipython-notebook with explanations.
 
 ## Results
 Here is the result on Regression task:
 
-**Note:** outliers included.
+**Note:** outliers are included in the plot.
 ![Result](images/Final_result.png)
 
 ### Metrics
-![Result](images/metrics_final.png)
+![Result](images/Final _metrics.png)
 
 **Note:** MAPE in `%`.
