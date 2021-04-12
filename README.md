@@ -1,7 +1,7 @@
 # Regression_test_task
 
 ## Usage
-1. Open Jupyter Notebook for Colab and then push the button **Open in Colab**.
+1. Open **main** and then push the button **Open in Colab**.
 2. Run all cells.
 
 **Note:** for local usage, you should download the repository and set all dependencies on your own! (There is no file "**requirements.txt**")
